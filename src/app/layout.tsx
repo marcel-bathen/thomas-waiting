@@ -17,8 +17,8 @@ export default function RootLayout({
   return (
     <html lang="de" className={`${GeistMono.className}`}>
       <body>
-          <div className="relative min-h-[100dvh]">
-              <Header />
+          <div className="relative min-h-[100dvh] flex flex-col items-between justify-between">
+            <Header />
             {children}
           </div>
       </body>

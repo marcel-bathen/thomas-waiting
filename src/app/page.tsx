@@ -2,7 +2,7 @@ import Footer from "@/app/components/footer";
 
 export default function Home() {
     return (
-        <div className="absolute left-0 right-0 bottom-0 p-[clamp(2rem,6vw,6rem)] flex flex-col gap-y-[3rem]">
+        <div className="p-[clamp(2rem,6vw,6rem)] flex flex-col gap-y-[3rem]">
             <h1 className="text-h1 font-bolder">
                 Wir sind eine Digital-First Agentur. Für unsere Kund:innen bauen wir Websites, E-Commerce Stores und andere digitale Erlebnisse.
             </h1>
