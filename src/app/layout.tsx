@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { GeistMono } from "geist/font/mono";
+import Header from "@/app/components/header";
 import "./globals.css";
 
 
@@ -16,7 +17,10 @@ export default function RootLayout({
   return (
     <html lang="de" className={`${GeistMono.className}`}>
       <body>
-        {children}
+          <div className="relative min-h-[100dvh]">
+              <Header />
+            {children}
+          </div>
       </body>
     </html>
   );

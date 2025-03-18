@@ -20,11 +20,11 @@
 @theme {
   /* Colors */
   --color-primary: #101010;
-  --color-secondary: #f7f7f7;
+  --color-secondary: #0000e4;
 
   /* Body */
   --body-color: #101010;
-  --body-background: var(--color-secondary);
+  --body-background: #f7f7f7;
 
   /* Font settings */
   --font-size-base: clamp(1.25rem,1.25vw, 1.25vw);
