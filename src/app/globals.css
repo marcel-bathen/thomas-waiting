@@ -19,11 +19,11 @@
 
 @theme {
   /* Colors */
-  --color-primary: #101010;
-  --color-secondary: #0000e4;
+  --color-primary: #222221;
+  --color-secondary: #eec564;
 
   /* Body */
-  --body-color: #101010;
+  --body-color: #222221;
   --body-background: #f7f7f7;
 
   /* Font settings */
@@ -34,7 +34,7 @@
   --font-weight-medium: 400;
   --font-weight-bold: 500;
   --font-weight-bolder: 600;
-  --font-sans: 'GeistSans', 'GeistSans Fallback';
+  --font-sans: var(--font-roboto-mono);
 
 
   --heading-line-height: 1.3;

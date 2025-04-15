@@ -3,7 +3,7 @@ export default function Footer() {
         <>
             <div className="flex flex-row flex-wrap gap-[1rem] gap-x-[2rem] justify-between mt-[1rem]">
                 <div className="text-[1rem] ">
-                    <strong>we craft.</strong> - Marcel Bathen - Im Eichborn 1 - 59909 Bestwig
+                    <strong>narrengold</strong> - Thomas Böhmer - Hauptstraße 26a - 59889 Eslohe
                 </div>
 
                 <div className="text-[1rem] flex flex-wrap flex-row gap-[.5rem] gap-x-[1.5rem]">

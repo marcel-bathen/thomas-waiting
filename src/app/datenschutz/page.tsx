@@ -15,12 +15,12 @@ export default function Datenschutz() {
                 </h3>
 
                 <p>
-                    Name/Fa.: we craft.<br />
-                    Straße Nr.: Im Eichborn 1<br />
-                    PLZ, Ort, Land: 59909 Bestwig<br />
-                    Geschäftsführer: Marcel Bathen<br />
-                    Telefonnummer: +49 (0) 1512 9088072<br />
-                    E-Mailadresse: moin@wecraft.agency<br />
+                    Name/Fa.: narrengold<br />
+                    Straße Nr.: Hauptstraße 26a<br />
+                    PLZ, Ort, Land: 59889 Eslohe<br />
+                    Geschäftsführer: Thomas Böhmer<br />
+                    Telefonnummer: +49 (0) 171 1977097<br />
+                    E-Mailadresse: kontakt@narrengold.com<br />
                 </p>
 
                 <h3 className="text-h3 font-bolder pt-[1rem]" style={{

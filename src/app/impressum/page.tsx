@@ -15,29 +15,28 @@ export default function Impressum() {
                 <h3 className="text-h3 font-bolder pt-[1rem]" style={{
                     lineHeight: 1.2
                 }}>
-                    we craft.
+                    narrengold
                 </h3>
 
                 <p>
-                    Im Eichborn 1<br />
-                    59909 Bestwig
+                    Hauptstraße 26a<br />
+                    59889 Eslohe
                 </p>
 
                 <p>
                     <strong>Inhaber</strong><br />
-                    Marcel Bathen
+                    Thomas Böhmer
                 </p>
 
                 <p>
-                    <strong>Umsatzsteuer-ID</strong><br />
-                    Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:<br />
-                    DE344649892
+                    <strong>Steuer-Identifikationsnummer (Steuer-IDNr.)</strong><br />
+                    61773825406
                 </p>
 
                 <p>
                     <strong>Kontakt</strong><br />
-                    Telefon: +49 (0) 1512 9088072<br/>
-                    E-Mail: moin@wecraft.agency
+                    Telefon: +49 (0) 171 1977097<br/>
+                    E-Mail: kontakt@narrengold.com
                 </p>
 
 
